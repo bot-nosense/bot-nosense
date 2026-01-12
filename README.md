@@ -3,7 +3,7 @@
 ### 🖥️ Workstation Setup
 
 - **Mainboard:** ASUS ROG Strix B850-F  
-- **CPU:** AMD Ryzen 9 9900X *(Eco Mode 65W)*  
+- **CPU:** AMD Ryzen 9 9950X *(Eco Mode 105W)*  
 - **CPU Cooler:** Noctua NH-D15 chromax.black  
 - **GPU:** NVIDIA RTX PRO™ 2000 Blackwell 16GB  
 - **RAM:** Kingmax 32GB DDR5-5600 *(1×32GB, upgradable)*  
