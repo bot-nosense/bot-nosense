@@ -11,5 +11,5 @@ Freelancer working across media and coding.
 - **Storage:** 512GB SSD
 
 ## ⚡ Why this setup?
-Optimized for efficiency, low power consumption, and stable long-hour workloads.
+Optimized for efficiency, low power consumption, and stable long-hour workloads.  
 Built for daily productivity, coding, automation, and creative work.
