@@ -1,7 +1,15 @@
 # Hi there 👋 I'm freelancer
 
-### 🖥️ Workstation Setup
+## 🧑‍💻 About Me
+Freelancer working across media and coding.
 
-- **Mac mini:** M2 2023 (8 CPU - 10 GPU - 24GB - 512GB)
+## 🖥️ Workstation Setup
+- **Machine:** Mac mini M2 (2023)
+- **CPU:** 8-core
+- **GPU:** 10-core
+- **Memory:** 24GB unified memory
+- **Storage:** 512GB SSD
 
-> ⚡ Optimized for efficiency, low power consumption, and stable long-hour workloads.
+## ⚡ Why this setup?
+Optimized for efficiency, low power consumption, and stable long-hour workloads.
+Built for daily productivity, coding, automation, and creative work.
