@@ -4,12 +4,9 @@
 Freelancer working across media and coding.
 
 ## 🖥️ Workstation Setup
-- **Machine:** Mac mini M2 (2023)
-- **CPU:** 8-core
-- **GPU:** 10-core
-- **Memory:** 24GB unified memory
-- **Storage:** 512GB SSD
-
+- **Machine:** Mac mini M2 24/512, Mac air M1 16/512, Mini PC i5 9th 16/512
+- **NAS:** Raspberry Pi5 4/32, HDD 4TB
+ 
 ## ⚡ Why this setup?
 Optimized for efficiency, low power consumption, and stable long-hour workloads.  
 Built for daily productivity, coding, automation, and creative work.
